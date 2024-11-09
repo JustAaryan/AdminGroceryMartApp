@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //the color will switch todark mode .
+
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FF000000</color>
+    <color name="darkgreen">#236225</color>
+    <color name="lightgray"> #8d99ae</color>
+    <color name="gray"> #236225</color>
+    <color name="teal"> #4E6C51</color>
+
+</resources>
