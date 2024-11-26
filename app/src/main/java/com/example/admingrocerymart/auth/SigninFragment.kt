@@ -1,4 +1,4 @@
-package com.example.usergrocerymart.auth
+package com.example.admingrocerymart.auth
 
 import android.os.Build
 import android.os.Bundle
