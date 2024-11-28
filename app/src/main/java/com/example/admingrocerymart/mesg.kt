@@ -32,4 +32,6 @@ object mesg {
     fun getcurrentuserid() : String{
         return FirebaseAuth.getInstance().currentUser?.uid ?:""
     }
+    fun returnRandomID(): String = (1..10).map { (('A'..'Z') + ('a'..'z') + ('0'..'9')).random() }.joinToString("")
+
 }

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1003003979801",
+    "firebase_url": "https://grocery-mart-45888-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "grocery-mart-45888",
+    "storage_bucket": "grocery-mart-45888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003003979801:android:5b6210e7d28fdda211e288",
+        "android_client_info": {
+          "package_name": "com.example.admingrocerymart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpX74AC-5-BayanmsG1hHGD08rbvZmrAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
